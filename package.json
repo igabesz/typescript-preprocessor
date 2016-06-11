@@ -1,0 +1,29 @@
+{
+  "name": "typescript-preprocessor",
+  "version": "0.0.1",
+  "description": "Using a preprocessor in a TS project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igabesz/typescript-preprocessor.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "preprocessor"
+  ],
+  "author": "Gábor Imre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igabesz/typescript-preprocessor/issues"
+  },
+  "homepage": "https://github.com/igabesz/typescript-preprocessor#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-preprocess": "^2.0.0",
+    "gulp-typescript": "^2.13.6",
+    "http-server": "^0.9.0"
+  }
+}
